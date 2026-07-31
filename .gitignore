@@ -1,0 +1,33 @@
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary SQL backup files
+*.sql~
