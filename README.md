@@ -1,7 +1,7 @@
 # 🧠 Programming Practice
 
 A collection of programming problems solved through daily practice.
-Covers **Data Structures**, **Algorithms**, **SQL**, and **Java OOP**.
+Covers **Java** and **SQL** — from basics to advanced.
 
 ---
 
@@ -9,14 +9,12 @@ Covers **Data Structures**, **Algorithms**, **SQL**, and **Java OOP**.
 
 | Folder | Description |
 |--------|-------------|
-| `Java/OOP/` | Classes, Inheritance, Polymorphism, Abstraction, Encapsulation |
-| `Java/DSA/Arrays/` | Array-based problems and patterns |
-| `Java/DSA/LinkedList/` | Singly, Doubly, Circular linked lists |
-| `Java/DSA/Trees/` | Binary Trees, BST, Traversals |
-| `Java/DSA/Sorting/` | Bubble, Merge, Quick, Heap sort |
+| `Java/Basics/` | Syntax, loops, conditionals, arrays, methods |
+| `Java/OOP/` | Classes, Inheritance, Polymorphism, Abstraction *(coming later)* |
+| `Java/DSA/` | Arrays, LinkedList, Trees, Sorting *(coming later)* |
 | `SQL/Basics/` | SELECT, WHERE, GROUP BY, ORDER BY |
-| `SQL/Joins/` | INNER, LEFT, RIGHT, FULL joins |
-| `SQL/Advanced/` | Subqueries, CTEs, Window Functions |
+| `SQL/Joins/` | INNER, LEFT, RIGHT, FULL joins *(coming later)* |
+| `SQL/Advanced/` | Subqueries, CTEs, Window Functions *(coming later)* |
 
 ---
 
