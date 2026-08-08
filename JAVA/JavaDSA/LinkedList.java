@@ -1,6 +1,6 @@
 package JavaDSA;
 
-public class LinkedListK {
+public class LinkedList {
     // Head node holds the start of the list
     private Node head;
 
